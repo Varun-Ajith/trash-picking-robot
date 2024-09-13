@@ -76,7 +76,7 @@ The brain of the robot, responsible for decision-making based on perception inpu
   ## Contributing
   Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
   ## License
-  This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+  This project is licensed under the [Apache License](LICENSE) - see the LICENSE file for details.
 
   ![pic](goshwit.png)
 
